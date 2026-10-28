@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Taza esmaltada vintage",
+    "price": 12.99,
+    "category": "Hogar",
+    "listing": {
+      "title": "Taza Esmaltada Vintage con Flores 12.99 € | Hogar",
+      "description": "Disfruta de tus momentos de relax con nuestra taza esmaltada vintage, una auténtica joya para tu hogar que combina nostalgias del pasado y funcionalidad moderna. Fabricada en metal esmaltado de alta resistencia, esta pieza destaca por su elegante fondo blanco marfil y un delicado estampado floral multicolor que incluye tonos azules, amarillos y rojos. Su característico borde dorado aporta un toque sofisticado y cálido, ideal para realzar cualquier rincón. Con una ligera y cómoda asa lateral, es perfecta para saborear un humeante café recién hecho o una infusión caliente mientras te envuelve la luz de la mañana sobre una mesa de madera. Ya sea para regalar o para darte un capricho y renovar tu vajilla diaria, esta taza esmaltada floral es duradera, ligera y muy fácil de limpiar. Aporta un encanto rústico inconfundible a tus desayunos y convierte cada sorbo en una experiencia única llena de estilo y confort.",
+      "features": [
+        "Diseño vintage con estampado floral multicolor",
+        "Fabricada en metal esmaltado resistente",
+        "Elegante borde superior con acabado dorado",
+        "Fondo en tono blanco marfil luminoso",
+        "Asa lateral ergonómica para un agarre cómodo",
+        "Ideal para bebidas calientes como café o té",
+        "Apta para uso diario y decoración rústica"
+      ],
+      "keywords": "taza esmaltada, taza vintage, taza de metal, taza con flores, menaje hogar, vajilla retro, taza café, taza té, regalo original, cocina rústica, taza blanca"
+    },
+    "status": "ok"
+  },
+  {
+    "id": 2,
+    "name": "Zapatillas deportivas",
+    "price": 59.9,
+    "category": "Calzado",
+    "listing": {
+      "title": "Zapatillas Deportivas Gris y Negro | 59.90 €",
+      "description": "Eleva tu estilo urbano con nuestras zapatillas deportivas de diseño bota, la combinación perfecta entre tendencia y confort absoluto para el día a día. Confeccionadas en lona gris resistente y paneles de refuerzo en negro, este calzado destaca por su versatilidad y estética moderna. Presentan cordones blancos clásicos, ojales metálicos pulidos y una distintiva etiqueta marrón en la lengüeta que aporta un toque distintivo. Su puntera de goma blanca reforzada y su suela flexible garantizan durabilidad y una pisada cómoda sobre cualquier superficie. Ideales para combinar con tus joggers favoritos o denim, estas zapatillas están pensadas para quienes buscan un look casual sin renunciar a la comodidad. Siente la libertad de caminar con confianza y marcar tendencia en cada paso. Renueva tu armario hoy mismo con este imprescindible de calzado por tan solo 59.90 € y destaca con personalidad propia vayas donde vayas.",
+      "features": [
+        "Diseño urbano tipo bota de caña media",
+        "Exterior de lona gris con paneles negros",
+        "Puntera de goma blanca reforzada",
+        "Cordones blancos planos y ojetes metálicos",
+        "Etiqueta decorativa marrón en la lengüeta",
+        "Suela de goma flexible y duradera",
+        "Precio competitivo de 59.90 €"
+      ],
+      "keywords": "zapatillas deportivas, calzado urbano, zapatillas grises, zapatillas de lona, zapatos casuales, moda urbana, calzado de hombre, zapatillas cómodas, zapatillas con cordones, bota deportiva, calzado 59 euros"
+    },
+    "status": "ok"
+  },
+  {
+    "id": 3,
+    "name": "Auriculares inalámbricos",
+    "price": 79.99,
+    "category": "Electrónica",
+    "listing": {
+      "title": "Auriculares Inalámbricos Negros 79.99 € | Sonido Pro",
+      "description": "Disfruta de tu música favorita como nunca antes con nuestros elegantes auriculares inalámbricos en color negro mate. Diseñados para ofrecer la máxima comodidad durante todo el día, cuentan con almohadillas de piel sintética ultra suaves que se adaptan perfectamente a tus oídos, garantizando un aislamiento acústico superior sin renunciar al estilo. Su estructura de plástico resistente combina durabilidad y ligereza, ideal para llevar contigo a todas partes. Experimenta una libertad absoluta de movimiento gracias a su conectividad Bluetooth avanzada, que asegura una transmisión de audio estable y sin cortes. Con una excelente relación calidad-precio por solo 79.99 €, estos cascos circumaurales integran controles intuitivos, micrófono incorporado para llamadas nítidas y una batería de larga duración. Eleva tu experiencia sonora diaria con un diseño moderno, minimalista y ergonómico que destaca por su sofisticación y rendimiento acústico excepcional en cualquier entorno.",
+      "features": [
+        "Diseño ergonómico en color negro mate",
+        "Almohadillas de piel sintética ultrasuaves",
+        "Estructura ligera de plástico resistente",
+        "Conectividad inalámbrica Bluetooth avanzada",
+        "Micrófono integrado para llamadas claras",
+        "Excelente relación calidad-precio a 79.99 €"
+      ],
+      "keywords": "auriculares inalámbricos, cascos bluetooth, auriculares negros, audio portátil, electrónica, auriculares con micrófono, cascos supraaurales, sonido sin cables, gadgets, accesorios de música, auriculares cómodos, 79.99 euros"
+    },
+    "status": "ok"
+  }
+]
